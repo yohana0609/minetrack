@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python env
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Datos generados
+model/output/
+app/api/_data/datos.json
