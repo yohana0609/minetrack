@@ -1,0 +1,2752 @@
+{
+  "historico": [
+    {
+      "fecha": "2026-01-31",
+      "turno": "Matutino",
+      "toneladas": 771.9,
+      "eficiencia": 26.33,
+      "tiempo_operativo_h": 3.05,
+      "consumo_kwh_ton": 44.66,
+      "dia_num": 0
+    },
+    {
+      "fecha": "2026-01-31",
+      "turno": "Vespertino",
+      "toneladas": 635.6,
+      "eficiencia": 25.47,
+      "tiempo_operativo_h": 3.05,
+      "consumo_kwh_ton": 47.21,
+      "dia_num": 0
+    },
+    {
+      "fecha": "2026-01-31",
+      "turno": "Nocturno",
+      "toneladas": 430.7,
+      "eficiencia": 13.9,
+      "tiempo_operativo_h": 1.86,
+      "consumo_kwh_ton": 44.79,
+      "dia_num": 0
+    },
+    {
+      "fecha": "2026-02-01",
+      "turno": "Matutino",
+      "toneladas": 1807.1,
+      "eficiencia": 63.14,
+      "tiempo_operativo_h": 7.32,
+      "consumo_kwh_ton": 25.18,
+      "dia_num": 1
+    },
+    {
+      "fecha": "2026-02-01",
+      "turno": "Vespertino",
+      "toneladas": 1653.1,
+      "eficiencia": 59.43,
+      "tiempo_operativo_h": 7.48,
+      "consumo_kwh_ton": 27.21,
+      "dia_num": 1
+    },
+    {
+      "fecha": "2026-02-01",
+      "turno": "Nocturno",
+      "toneladas": 1587.6,
+      "eficiencia": 56.83,
+      "tiempo_operativo_h": 7.08,
+      "consumo_kwh_ton": 27.97,
+      "dia_num": 1
+    },
+    {
+      "fecha": "2026-02-02",
+      "turno": "Matutino",
+      "toneladas": 2233.0,
+      "eficiencia": 90.34,
+      "tiempo_operativo_h": 7.97,
+      "consumo_kwh_ton": 17.94,
+      "dia_num": 2
+    },
+    {
+      "fecha": "2026-02-02",
+      "turno": "Vespertino",
+      "toneladas": 2133.2,
+      "eficiencia": 82.83,
+      "tiempo_operativo_h": 7.46,
+      "consumo_kwh_ton": 18.27,
+      "dia_num": 2
+    },
+    {
+      "fecha": "2026-02-02",
+      "turno": "Nocturno",
+      "toneladas": 1954.7,
+      "eficiencia": 79.09,
+      "tiempo_operativo_h": 7.29,
+      "consumo_kwh_ton": 20.21,
+      "dia_num": 2
+    },
+    {
+      "fecha": "2026-02-03",
+      "turno": "Matutino",
+      "toneladas": 2407.7,
+      "eficiencia": 85.56,
+      "tiempo_operativo_h": 7.22,
+      "consumo_kwh_ton": 19.24,
+      "dia_num": 3
+    },
+    {
+      "fecha": "2026-02-03",
+      "turno": "Vespertino",
+      "toneladas": 2440.3,
+      "eficiencia": 85.21,
+      "tiempo_operativo_h": 7.61,
+      "consumo_kwh_ton": 19.23,
+      "dia_num": 3
+    },
+    {
+      "fecha": "2026-02-03",
+      "turno": "Nocturno",
+      "toneladas": 2009.3,
+      "eficiencia": 70.04,
+      "tiempo_operativo_h": 7.35,
+      "consumo_kwh_ton": 22.2,
+      "dia_num": 3
+    },
+    {
+      "fecha": "2026-02-04",
+      "turno": "Matutino",
+      "toneladas": 2526.2,
+      "eficiencia": 83.3,
+      "tiempo_operativo_h": 7.31,
+      "consumo_kwh_ton": 18.96,
+      "dia_num": 4
+    },
+    {
+      "fecha": "2026-02-04",
+      "turno": "Vespertino",
+      "toneladas": 2390.2,
+      "eficiencia": 75.94,
+      "tiempo_operativo_h": 7.99,
+      "consumo_kwh_ton": 21.27,
+      "dia_num": 4
+    },
+    {
+      "fecha": "2026-02-04",
+      "turno": "Nocturno",
+      "toneladas": 1944.9,
+      "eficiencia": 78.1,
+      "tiempo_operativo_h": 7.72,
+      "consumo_kwh_ton": 20.59,
+      "dia_num": 4
+    },
+    {
+      "fecha": "2026-02-05",
+      "turno": "Matutino",
+      "toneladas": 2236.4,
+      "eficiencia": 83.32,
+      "tiempo_operativo_h": 7.15,
+      "consumo_kwh_ton": 19.56,
+      "dia_num": 5
+    },
+    {
+      "fecha": "2026-02-05",
+      "turno": "Vespertino",
+      "toneladas": 2218.3,
+      "eficiencia": 75.82,
+      "tiempo_operativo_h": 7.34,
+      "consumo_kwh_ton": 20.38,
+      "dia_num": 5
+    },
+    {
+      "fecha": "2026-02-05",
+      "turno": "Nocturno",
+      "toneladas": 2158.5,
+      "eficiencia": 78.85,
+      "tiempo_operativo_h": 7.49,
+      "consumo_kwh_ton": 19.18,
+      "dia_num": 5
+    },
+    {
+      "fecha": "2026-02-06",
+      "turno": "Matutino",
+      "toneladas": 2500.1,
+      "eficiencia": 85.73,
+      "tiempo_operativo_h": 7.78,
+      "consumo_kwh_ton": 18.33,
+      "dia_num": 6
+    },
+    {
+      "fecha": "2026-02-06",
+      "turno": "Vespertino",
+      "toneladas": 2253.6,
+      "eficiencia": 75.38,
+      "tiempo_operativo_h": 7.14,
+      "consumo_kwh_ton": 19.88,
+      "dia_num": 6
+    },
+    {
+      "fecha": "2026-02-06",
+      "turno": "Nocturno",
+      "toneladas": 2049.3,
+      "eficiencia": 74.89,
+      "tiempo_operativo_h": 7.91,
+      "consumo_kwh_ton": 20.47,
+      "dia_num": 6
+    },
+    {
+      "fecha": "2026-02-07",
+      "turno": "Matutino",
+      "toneladas": 1873.6,
+      "eficiencia": 61.33,
+      "tiempo_operativo_h": 7.11,
+      "consumo_kwh_ton": 25.1,
+      "dia_num": 7
+    },
+    {
+      "fecha": "2026-02-07",
+      "turno": "Vespertino",
+      "toneladas": 1827.6,
+      "eficiencia": 63.17,
+      "tiempo_operativo_h": 7.65,
+      "consumo_kwh_ton": 25.82,
+      "dia_num": 7
+    },
+    {
+      "fecha": "2026-02-07",
+      "turno": "Nocturno",
+      "toneladas": 1504.6,
+      "eficiencia": 59.18,
+      "tiempo_operativo_h": 7.56,
+      "consumo_kwh_ton": 27.39,
+      "dia_num": 7
+    },
+    {
+      "fecha": "2026-02-08",
+      "turno": "Matutino",
+      "toneladas": 1747.6,
+      "eficiencia": 60.27,
+      "tiempo_operativo_h": 7.26,
+      "consumo_kwh_ton": 25.9,
+      "dia_num": 8
+    },
+    {
+      "fecha": "2026-02-08",
+      "turno": "Vespertino",
+      "toneladas": 1808.7,
+      "eficiencia": 56.38,
+      "tiempo_operativo_h": 7.53,
+      "consumo_kwh_ton": 27.66,
+      "dia_num": 8
+    },
+    {
+      "fecha": "2026-02-08",
+      "turno": "Nocturno",
+      "toneladas": 1487.7,
+      "eficiencia": 54.82,
+      "tiempo_operativo_h": 7.95,
+      "consumo_kwh_ton": 28.18,
+      "dia_num": 8
+    },
+    {
+      "fecha": "2026-02-09",
+      "turno": "Matutino",
+      "toneladas": 2478.0,
+      "eficiencia": 83.38,
+      "tiempo_operativo_h": 7.97,
+      "consumo_kwh_ton": 19.73,
+      "dia_num": 9
+    },
+    {
+      "fecha": "2026-02-09",
+      "turno": "Vespertino",
+      "toneladas": 2279.0,
+      "eficiencia": 78.5,
+      "tiempo_operativo_h": 7.31,
+      "consumo_kwh_ton": 19.1,
+      "dia_num": 9
+    },
+    {
+      "fecha": "2026-02-09",
+      "turno": "Nocturno",
+      "toneladas": 2112.9,
+      "eficiencia": 70.1,
+      "tiempo_operativo_h": 7.31,
+      "consumo_kwh_ton": 23.35,
+      "dia_num": 9
+    },
+    {
+      "fecha": "2026-02-10",
+      "turno": "Matutino",
+      "toneladas": 2263.6,
+      "eficiencia": 84.87,
+      "tiempo_operativo_h": 7.99,
+      "consumo_kwh_ton": 18.05,
+      "dia_num": 10
+    },
+    {
+      "fecha": "2026-02-10",
+      "turno": "Vespertino",
+      "toneladas": 2375.4,
+      "eficiencia": 77.78,
+      "tiempo_operativo_h": 7.74,
+      "consumo_kwh_ton": 19.95,
+      "dia_num": 10
+    },
+    {
+      "fecha": "2026-02-10",
+      "turno": "Nocturno",
+      "toneladas": 2157.1,
+      "eficiencia": 75.17,
+      "tiempo_operativo_h": 7.13,
+      "consumo_kwh_ton": 21.62,
+      "dia_num": 10
+    },
+    {
+      "fecha": "2026-02-11",
+      "turno": "Matutino",
+      "toneladas": 2279.6,
+      "eficiencia": 79.54,
+      "tiempo_operativo_h": 7.61,
+      "consumo_kwh_ton": 20.12,
+      "dia_num": 11
+    },
+    {
+      "fecha": "2026-02-11",
+      "turno": "Vespertino",
+      "toneladas": 1257.6,
+      "eficiencia": 47.52,
+      "tiempo_operativo_h": 4.16,
+      "consumo_kwh_ton": 33.72,
+      "dia_num": 11
+    },
+    {
+      "fecha": "2026-02-11",
+      "turno": "Nocturno",
+      "toneladas": 2259.6,
+      "eficiencia": 71.0,
+      "tiempo_operativo_h": 7.37,
+      "consumo_kwh_ton": 21.29,
+      "dia_num": 11
+    },
+    {
+      "fecha": "2026-02-12",
+      "turno": "Matutino",
+      "toneladas": 2544.9,
+      "eficiencia": 82.12,
+      "tiempo_operativo_h": 7.67,
+      "consumo_kwh_ton": 19.76,
+      "dia_num": 12
+    },
+    {
+      "fecha": "2026-02-12",
+      "turno": "Vespertino",
+      "toneladas": 2290.8,
+      "eficiencia": 77.83,
+      "tiempo_operativo_h": 7.13,
+      "consumo_kwh_ton": 21.01,
+      "dia_num": 12
+    },
+    {
+      "fecha": "2026-02-12",
+      "turno": "Nocturno",
+      "toneladas": 2157.0,
+      "eficiencia": 73.11,
+      "tiempo_operativo_h": 7.38,
+      "consumo_kwh_ton": 21.99,
+      "dia_num": 12
+    },
+    {
+      "fecha": "2026-02-13",
+      "turno": "Matutino",
+      "toneladas": 2548.6,
+      "eficiencia": 88.33,
+      "tiempo_operativo_h": 7.66,
+      "consumo_kwh_ton": 17.06,
+      "dia_num": 13
+    },
+    {
+      "fecha": "2026-02-13",
+      "turno": "Vespertino",
+      "toneladas": 2425.4,
+      "eficiencia": 81.95,
+      "tiempo_operativo_h": 7.05,
+      "consumo_kwh_ton": 18.42,
+      "dia_num": 13
+    },
+    {
+      "fecha": "2026-02-13",
+      "turno": "Nocturno",
+      "toneladas": 1944.8,
+      "eficiencia": 71.25,
+      "tiempo_operativo_h": 7.57,
+      "consumo_kwh_ton": 22.49,
+      "dia_num": 13
+    },
+    {
+      "fecha": "2026-02-14",
+      "turno": "Matutino",
+      "toneladas": 1720.6,
+      "eficiencia": 65.64,
+      "tiempo_operativo_h": 7.27,
+      "consumo_kwh_ton": 23.54,
+      "dia_num": 14
+    },
+    {
+      "fecha": "2026-02-14",
+      "turno": "Vespertino",
+      "toneladas": 1750.9,
+      "eficiencia": 63.52,
+      "tiempo_operativo_h": 7.67,
+      "consumo_kwh_ton": 24.92,
+      "dia_num": 14
+    },
+    {
+      "fecha": "2026-02-14",
+      "turno": "Nocturno",
+      "toneladas": 1550.5,
+      "eficiencia": 54.26,
+      "tiempo_operativo_h": 7.27,
+      "consumo_kwh_ton": 30.35,
+      "dia_num": 14
+    },
+    {
+      "fecha": "2026-02-15",
+      "turno": "Matutino",
+      "toneladas": 765.2,
+      "eficiencia": 25.97,
+      "tiempo_operativo_h": 3.12,
+      "consumo_kwh_ton": 46.26,
+      "dia_num": 15
+    },
+    {
+      "fecha": "2026-02-15",
+      "turno": "Vespertino",
+      "toneladas": 683.2,
+      "eficiencia": 23.19,
+      "tiempo_operativo_h": 3.09,
+      "consumo_kwh_ton": 45.24,
+      "dia_num": 15
+    },
+    {
+      "fecha": "2026-02-15",
+      "turno": "Nocturno",
+      "toneladas": 358.6,
+      "eficiencia": 14.22,
+      "tiempo_operativo_h": 1.9,
+      "consumo_kwh_ton": 48.17,
+      "dia_num": 15
+    },
+    {
+      "fecha": "2026-02-16",
+      "turno": "Matutino",
+      "toneladas": 2213.9,
+      "eficiencia": 90.1,
+      "tiempo_operativo_h": 7.45,
+      "consumo_kwh_ton": 18.27,
+      "dia_num": 16
+    },
+    {
+      "fecha": "2026-02-16",
+      "turno": "Vespertino",
+      "toneladas": 2408.8,
+      "eficiencia": 78.43,
+      "tiempo_operativo_h": 7.41,
+      "consumo_kwh_ton": 20.75,
+      "dia_num": 16
+    },
+    {
+      "fecha": "2026-02-16",
+      "turno": "Nocturno",
+      "toneladas": 2000.3,
+      "eficiencia": 75.39,
+      "tiempo_operativo_h": 7.94,
+      "consumo_kwh_ton": 21.27,
+      "dia_num": 16
+    },
+    {
+      "fecha": "2026-02-17",
+      "turno": "Matutino",
+      "toneladas": 2245.3,
+      "eficiencia": 86.37,
+      "tiempo_operativo_h": 7.99,
+      "consumo_kwh_ton": 17.55,
+      "dia_num": 17
+    },
+    {
+      "fecha": "2026-02-17",
+      "turno": "Vespertino",
+      "toneladas": 2417.7,
+      "eficiencia": 83.47,
+      "tiempo_operativo_h": 7.71,
+      "consumo_kwh_ton": 19.22,
+      "dia_num": 17
+    },
+    {
+      "fecha": "2026-02-17",
+      "turno": "Nocturno",
+      "toneladas": 2042.3,
+      "eficiencia": 78.04,
+      "tiempo_operativo_h": 7.82,
+      "consumo_kwh_ton": 20.89,
+      "dia_num": 17
+    },
+    {
+      "fecha": "2026-02-18",
+      "turno": "Matutino",
+      "toneladas": 2404.4,
+      "eficiencia": 85.02,
+      "tiempo_operativo_h": 7.81,
+      "consumo_kwh_ton": 18.77,
+      "dia_num": 18
+    },
+    {
+      "fecha": "2026-02-18",
+      "turno": "Vespertino",
+      "toneladas": 2387.9,
+      "eficiencia": 85.16,
+      "tiempo_operativo_h": 7.36,
+      "consumo_kwh_ton": 18.24,
+      "dia_num": 18
+    },
+    {
+      "fecha": "2026-02-18",
+      "turno": "Nocturno",
+      "toneladas": 2138.5,
+      "eficiencia": 69.94,
+      "tiempo_operativo_h": 7.49,
+      "consumo_kwh_ton": 22.58,
+      "dia_num": 18
+    },
+    {
+      "fecha": "2026-02-19",
+      "turno": "Matutino",
+      "toneladas": 2434.9,
+      "eficiencia": 79.41,
+      "tiempo_operativo_h": 7.08,
+      "consumo_kwh_ton": 20.44,
+      "dia_num": 19
+    },
+    {
+      "fecha": "2026-02-19",
+      "turno": "Vespertino",
+      "toneladas": 2144.0,
+      "eficiencia": 81.0,
+      "tiempo_operativo_h": 7.78,
+      "consumo_kwh_ton": 18.86,
+      "dia_num": 19
+    },
+    {
+      "fecha": "2026-02-19",
+      "turno": "Nocturno",
+      "toneladas": 1971.9,
+      "eficiencia": 70.11,
+      "tiempo_operativo_h": 7.55,
+      "consumo_kwh_ton": 22.52,
+      "dia_num": 19
+    },
+    {
+      "fecha": "2026-02-20",
+      "turno": "Matutino",
+      "toneladas": 2486.8,
+      "eficiencia": 90.66,
+      "tiempo_operativo_h": 7.54,
+      "consumo_kwh_ton": 17.04,
+      "dia_num": 20
+    },
+    {
+      "fecha": "2026-02-20",
+      "turno": "Vespertino",
+      "toneladas": 2196.4,
+      "eficiencia": 80.06,
+      "tiempo_operativo_h": 7.12,
+      "consumo_kwh_ton": 18.71,
+      "dia_num": 20
+    },
+    {
+      "fecha": "2026-02-20",
+      "turno": "Nocturno",
+      "toneladas": 2225.5,
+      "eficiencia": 76.85,
+      "tiempo_operativo_h": 7.43,
+      "consumo_kwh_ton": 19.79,
+      "dia_num": 20
+    },
+    {
+      "fecha": "2026-02-21",
+      "turno": "Matutino",
+      "toneladas": 1728.1,
+      "eficiencia": 64.19,
+      "tiempo_operativo_h": 7.73,
+      "consumo_kwh_ton": 24.89,
+      "dia_num": 21
+    },
+    {
+      "fecha": "2026-02-21",
+      "turno": "Vespertino",
+      "toneladas": 1834.5,
+      "eficiencia": 62.58,
+      "tiempo_operativo_h": 7.57,
+      "consumo_kwh_ton": 25.41,
+      "dia_num": 21
+    },
+    {
+      "fecha": "2026-02-21",
+      "turno": "Nocturno",
+      "toneladas": 1520.1,
+      "eficiencia": 54.97,
+      "tiempo_operativo_h": 7.77,
+      "consumo_kwh_ton": 27.22,
+      "dia_num": 21
+    },
+    {
+      "fecha": "2026-02-22",
+      "turno": "Matutino",
+      "toneladas": 1669.2,
+      "eficiencia": 59.65,
+      "tiempo_operativo_h": 7.86,
+      "consumo_kwh_ton": 26.9,
+      "dia_num": 22
+    },
+    {
+      "fecha": "2026-02-22",
+      "turno": "Vespertino",
+      "toneladas": 1600.0,
+      "eficiencia": 60.49,
+      "tiempo_operativo_h": 7.49,
+      "consumo_kwh_ton": 25.15,
+      "dia_num": 22
+    },
+    {
+      "fecha": "2026-02-22",
+      "turno": "Nocturno",
+      "toneladas": 1558.3,
+      "eficiencia": 57.01,
+      "tiempo_operativo_h": 7.65,
+      "consumo_kwh_ton": 26.33,
+      "dia_num": 22
+    },
+    {
+      "fecha": "2026-02-23",
+      "turno": "Matutino",
+      "toneladas": 2448.3,
+      "eficiencia": 85.04,
+      "tiempo_operativo_h": 7.86,
+      "consumo_kwh_ton": 18.79,
+      "dia_num": 23
+    },
+    {
+      "fecha": "2026-02-23",
+      "turno": "Vespertino",
+      "toneladas": 2123.3,
+      "eficiencia": 82.36,
+      "tiempo_operativo_h": 7.07,
+      "consumo_kwh_ton": 19.26,
+      "dia_num": 23
+    },
+    {
+      "fecha": "2026-02-23",
+      "turno": "Nocturno",
+      "toneladas": 2137.5,
+      "eficiencia": 73.63,
+      "tiempo_operativo_h": 7.66,
+      "consumo_kwh_ton": 21.27,
+      "dia_num": 23
+    },
+    {
+      "fecha": "2026-02-24",
+      "turno": "Matutino",
+      "toneladas": 2569.5,
+      "eficiencia": 83.64,
+      "tiempo_operativo_h": 7.96,
+      "consumo_kwh_ton": 19.56,
+      "dia_num": 24
+    },
+    {
+      "fecha": "2026-02-24",
+      "turno": "Vespertino",
+      "toneladas": 2122.9,
+      "eficiencia": 76.24,
+      "tiempo_operativo_h": 7.06,
+      "consumo_kwh_ton": 19.79,
+      "dia_num": 24
+    },
+    {
+      "fecha": "2026-02-24",
+      "turno": "Nocturno",
+      "toneladas": 1967.1,
+      "eficiencia": 72.9,
+      "tiempo_operativo_h": 7.85,
+      "consumo_kwh_ton": 20.54,
+      "dia_num": 24
+    },
+    {
+      "fecha": "2026-02-25",
+      "turno": "Matutino",
+      "toneladas": 2316.2,
+      "eficiencia": 80.46,
+      "tiempo_operativo_h": 7.71,
+      "consumo_kwh_ton": 19.8,
+      "dia_num": 25
+    },
+    {
+      "fecha": "2026-02-25",
+      "turno": "Vespertino",
+      "toneladas": 2365.8,
+      "eficiencia": 84.18,
+      "tiempo_operativo_h": 7.31,
+      "consumo_kwh_ton": 18.08,
+      "dia_num": 25
+    },
+    {
+      "fecha": "2026-02-25",
+      "turno": "Nocturno",
+      "toneladas": 2215.7,
+      "eficiencia": 79.94,
+      "tiempo_operativo_h": 7.44,
+      "consumo_kwh_ton": 19.42,
+      "dia_num": 25
+    },
+    {
+      "fecha": "2026-02-26",
+      "turno": "Matutino",
+      "toneladas": 2338.9,
+      "eficiencia": 90.13,
+      "tiempo_operativo_h": 7.86,
+      "consumo_kwh_ton": 17.32,
+      "dia_num": 26
+    },
+    {
+      "fecha": "2026-02-26",
+      "turno": "Vespertino",
+      "toneladas": 2372.9,
+      "eficiencia": 76.26,
+      "tiempo_operativo_h": 7.91,
+      "consumo_kwh_ton": 20.63,
+      "dia_num": 26
+    },
+    {
+      "fecha": "2026-02-26",
+      "turno": "Nocturno",
+      "toneladas": 2051.2,
+      "eficiencia": 78.94,
+      "tiempo_operativo_h": 7.41,
+      "consumo_kwh_ton": 18.95,
+      "dia_num": 26
+    },
+    {
+      "fecha": "2026-02-27",
+      "turno": "Matutino",
+      "toneladas": 2243.1,
+      "eficiencia": 82.85,
+      "tiempo_operativo_h": 7.95,
+      "consumo_kwh_ton": 19.84,
+      "dia_num": 27
+    },
+    {
+      "fecha": "2026-02-27",
+      "turno": "Vespertino",
+      "toneladas": 2328.1,
+      "eficiencia": 80.17,
+      "tiempo_operativo_h": 7.32,
+      "consumo_kwh_ton": 19.28,
+      "dia_num": 27
+    },
+    {
+      "fecha": "2026-02-27",
+      "turno": "Nocturno",
+      "toneladas": 2197.3,
+      "eficiencia": 77.85,
+      "tiempo_operativo_h": 7.8,
+      "consumo_kwh_ton": 19.37,
+      "dia_num": 27
+    },
+    {
+      "fecha": "2026-02-28",
+      "turno": "Matutino",
+      "toneladas": 1672.6,
+      "eficiencia": 64.19,
+      "tiempo_operativo_h": 7.46,
+      "consumo_kwh_ton": 25.45,
+      "dia_num": 28
+    },
+    {
+      "fecha": "2026-02-28",
+      "turno": "Vespertino",
+      "toneladas": 1605.2,
+      "eficiencia": 57.54,
+      "tiempo_operativo_h": 7.77,
+      "consumo_kwh_ton": 27.65,
+      "dia_num": 28
+    },
+    {
+      "fecha": "2026-02-28",
+      "turno": "Nocturno",
+      "toneladas": 1478.6,
+      "eficiencia": 57.68,
+      "tiempo_operativo_h": 7.11,
+      "consumo_kwh_ton": 28.14,
+      "dia_num": 28
+    },
+    {
+      "fecha": "2026-03-01",
+      "turno": "Matutino",
+      "toneladas": 1679.4,
+      "eficiencia": 60.04,
+      "tiempo_operativo_h": 7.99,
+      "consumo_kwh_ton": 25.86,
+      "dia_num": 29
+    },
+    {
+      "fecha": "2026-03-01",
+      "turno": "Vespertino",
+      "toneladas": 1795.6,
+      "eficiencia": 64.35,
+      "tiempo_operativo_h": 7.99,
+      "consumo_kwh_ton": 25.05,
+      "dia_num": 29
+    },
+    {
+      "fecha": "2026-03-01",
+      "turno": "Nocturno",
+      "toneladas": 1478.4,
+      "eficiencia": 58.28,
+      "tiempo_operativo_h": 7.58,
+      "consumo_kwh_ton": 26.78,
+      "dia_num": 29
+    },
+    {
+      "fecha": "2026-03-02",
+      "turno": "Matutino",
+      "toneladas": 900.3,
+      "eficiencia": 33.96,
+      "tiempo_operativo_h": 2.82,
+      "consumo_kwh_ton": 46.11,
+      "dia_num": 30
+    },
+    {
+      "fecha": "2026-03-02",
+      "turno": "Vespertino",
+      "toneladas": 856.4,
+      "eficiencia": 30.57,
+      "tiempo_operativo_h": 3.07,
+      "consumo_kwh_ton": 47.39,
+      "dia_num": 30
+    },
+    {
+      "fecha": "2026-03-02",
+      "turno": "Nocturno",
+      "toneladas": 907.3,
+      "eficiencia": 29.4,
+      "tiempo_operativo_h": 2.93,
+      "consumo_kwh_ton": 47.95,
+      "dia_num": 30
+    },
+    {
+      "fecha": "2026-03-03",
+      "turno": "Matutino",
+      "toneladas": 2577.9,
+      "eficiencia": 79.19,
+      "tiempo_operativo_h": 7.97,
+      "consumo_kwh_ton": 18.95,
+      "dia_num": 31
+    },
+    {
+      "fecha": "2026-03-03",
+      "turno": "Vespertino",
+      "toneladas": 2290.1,
+      "eficiencia": 86.32,
+      "tiempo_operativo_h": 7.11,
+      "consumo_kwh_ton": 18.31,
+      "dia_num": 31
+    },
+    {
+      "fecha": "2026-03-03",
+      "turno": "Nocturno",
+      "toneladas": 2119.8,
+      "eficiencia": 76.16,
+      "tiempo_operativo_h": 7.71,
+      "consumo_kwh_ton": 20.55,
+      "dia_num": 31
+    },
+    {
+      "fecha": "2026-03-04",
+      "turno": "Matutino",
+      "toneladas": 2432.4,
+      "eficiencia": 89.77,
+      "tiempo_operativo_h": 7.08,
+      "consumo_kwh_ton": 17.13,
+      "dia_num": 32
+    },
+    {
+      "fecha": "2026-03-04",
+      "turno": "Vespertino",
+      "toneladas": 2422.4,
+      "eficiencia": 80.25,
+      "tiempo_operativo_h": 7.64,
+      "consumo_kwh_ton": 19.16,
+      "dia_num": 32
+    },
+    {
+      "fecha": "2026-03-04",
+      "turno": "Nocturno",
+      "toneladas": 2099.7,
+      "eficiencia": 73.26,
+      "tiempo_operativo_h": 7.6,
+      "consumo_kwh_ton": 20.56,
+      "dia_num": 32
+    },
+    {
+      "fecha": "2026-03-05",
+      "turno": "Matutino",
+      "toneladas": 2586.7,
+      "eficiencia": 87.36,
+      "tiempo_operativo_h": 7.55,
+      "consumo_kwh_ton": 17.66,
+      "dia_num": 33
+    },
+    {
+      "fecha": "2026-03-05",
+      "turno": "Vespertino",
+      "toneladas": 2347.4,
+      "eficiencia": 76.94,
+      "tiempo_operativo_h": 7.91,
+      "consumo_kwh_ton": 21.1,
+      "dia_num": 33
+    },
+    {
+      "fecha": "2026-03-05",
+      "turno": "Nocturno",
+      "toneladas": 2188.3,
+      "eficiencia": 75.99,
+      "tiempo_operativo_h": 7.44,
+      "consumo_kwh_ton": 21.59,
+      "dia_num": 33
+    },
+    {
+      "fecha": "2026-03-06",
+      "turno": "Matutino",
+      "toneladas": 2225.4,
+      "eficiencia": 79.36,
+      "tiempo_operativo_h": 7.4,
+      "consumo_kwh_ton": 20.43,
+      "dia_num": 34
+    },
+    {
+      "fecha": "2026-03-06",
+      "turno": "Vespertino",
+      "toneladas": 2152.5,
+      "eficiencia": 81.81,
+      "tiempo_operativo_h": 7.41,
+      "consumo_kwh_ton": 20.12,
+      "dia_num": 34
+    },
+    {
+      "fecha": "2026-03-06",
+      "turno": "Nocturno",
+      "toneladas": 2226.3,
+      "eficiencia": 74.47,
+      "tiempo_operativo_h": 7.44,
+      "consumo_kwh_ton": 20.64,
+      "dia_num": 34
+    },
+    {
+      "fecha": "2026-03-07",
+      "turno": "Matutino",
+      "toneladas": 1905.0,
+      "eficiencia": 66.54,
+      "tiempo_operativo_h": 8.0,
+      "consumo_kwh_ton": 24.81,
+      "dia_num": 35
+    },
+    {
+      "fecha": "2026-03-07",
+      "turno": "Vespertino",
+      "toneladas": 1783.6,
+      "eficiencia": 64.33,
+      "tiempo_operativo_h": 7.86,
+      "consumo_kwh_ton": 23.83,
+      "dia_num": 35
+    },
+    {
+      "fecha": "2026-03-07",
+      "turno": "Nocturno",
+      "toneladas": 1490.0,
+      "eficiencia": 59.67,
+      "tiempo_operativo_h": 7.62,
+      "consumo_kwh_ton": 25.64,
+      "dia_num": 35
+    },
+    {
+      "fecha": "2026-03-08",
+      "turno": "Matutino",
+      "toneladas": 1834.0,
+      "eficiencia": 62.48,
+      "tiempo_operativo_h": 7.15,
+      "consumo_kwh_ton": 25.6,
+      "dia_num": 36
+    },
+    {
+      "fecha": "2026-03-08",
+      "turno": "Vespertino",
+      "toneladas": 1784.5,
+      "eficiencia": 60.73,
+      "tiempo_operativo_h": 7.86,
+      "consumo_kwh_ton": 26.03,
+      "dia_num": 36
+    },
+    {
+      "fecha": "2026-03-08",
+      "turno": "Nocturno",
+      "toneladas": 1679.5,
+      "eficiencia": 55.34,
+      "tiempo_operativo_h": 7.17,
+      "consumo_kwh_ton": 27.08,
+      "dia_num": 36
+    },
+    {
+      "fecha": "2026-03-09",
+      "turno": "Matutino",
+      "toneladas": 2446.2,
+      "eficiencia": 87.43,
+      "tiempo_operativo_h": 7.24,
+      "consumo_kwh_ton": 17.33,
+      "dia_num": 37
+    },
+    {
+      "fecha": "2026-03-09",
+      "turno": "Vespertino",
+      "toneladas": 1278.0,
+      "eficiencia": 43.95,
+      "tiempo_operativo_h": 4.12,
+      "consumo_kwh_ton": 37.23,
+      "dia_num": 37
+    },
+    {
+      "fecha": "2026-03-09",
+      "turno": "Nocturno",
+      "toneladas": 2116.7,
+      "eficiencia": 77.77,
+      "tiempo_operativo_h": 7.42,
+      "consumo_kwh_ton": 20.47,
+      "dia_num": 37
+    },
+    {
+      "fecha": "2026-03-10",
+      "turno": "Matutino",
+      "toneladas": 2572.6,
+      "eficiencia": 80.8,
+      "tiempo_operativo_h": 7.93,
+      "consumo_kwh_ton": 19.45,
+      "dia_num": 38
+    },
+    {
+      "fecha": "2026-03-10",
+      "turno": "Vespertino",
+      "toneladas": 2265.1,
+      "eficiencia": 86.18,
+      "tiempo_operativo_h": 7.51,
+      "consumo_kwh_ton": 17.93,
+      "dia_num": 38
+    },
+    {
+      "fecha": "2026-03-10",
+      "turno": "Nocturno",
+      "toneladas": 2024.2,
+      "eficiencia": 70.36,
+      "tiempo_operativo_h": 7.16,
+      "consumo_kwh_ton": 21.52,
+      "dia_num": 38
+    },
+    {
+      "fecha": "2026-03-11",
+      "turno": "Matutino",
+      "toneladas": 2261.3,
+      "eficiencia": 86.68,
+      "tiempo_operativo_h": 7.21,
+      "consumo_kwh_ton": 17.86,
+      "dia_num": 39
+    },
+    {
+      "fecha": "2026-03-11",
+      "turno": "Vespertino",
+      "toneladas": 2270.5,
+      "eficiencia": 82.64,
+      "tiempo_operativo_h": 7.21,
+      "consumo_kwh_ton": 18.44,
+      "dia_num": 39
+    },
+    {
+      "fecha": "2026-03-11",
+      "turno": "Nocturno",
+      "toneladas": 1070.2,
+      "eficiencia": 37.52,
+      "tiempo_operativo_h": 3.74,
+      "consumo_kwh_ton": 40.32,
+      "dia_num": 39
+    },
+    {
+      "fecha": "2026-03-12",
+      "turno": "Matutino",
+      "toneladas": 2287.2,
+      "eficiencia": 83.38,
+      "tiempo_operativo_h": 7.52,
+      "consumo_kwh_ton": 19.22,
+      "dia_num": 40
+    },
+    {
+      "fecha": "2026-03-12",
+      "turno": "Vespertino",
+      "toneladas": 1442.3,
+      "eficiencia": 47.13,
+      "tiempo_operativo_h": 4.88,
+      "consumo_kwh_ton": 34.77,
+      "dia_num": 40
+    },
+    {
+      "fecha": "2026-03-12",
+      "turno": "Nocturno",
+      "toneladas": 2036.6,
+      "eficiencia": 78.01,
+      "tiempo_operativo_h": 7.76,
+      "consumo_kwh_ton": 19.52,
+      "dia_num": 40
+    },
+    {
+      "fecha": "2026-03-13",
+      "turno": "Matutino",
+      "toneladas": 2350.3,
+      "eficiencia": 84.82,
+      "tiempo_operativo_h": 7.63,
+      "consumo_kwh_ton": 18.3,
+      "dia_num": 41
+    },
+    {
+      "fecha": "2026-03-13",
+      "turno": "Vespertino",
+      "toneladas": 2370.3,
+      "eficiencia": 75.51,
+      "tiempo_operativo_h": 7.28,
+      "consumo_kwh_ton": 21.27,
+      "dia_num": 41
+    },
+    {
+      "fecha": "2026-03-13",
+      "turno": "Nocturno",
+      "toneladas": 2115.9,
+      "eficiencia": 75.14,
+      "tiempo_operativo_h": 7.14,
+      "consumo_kwh_ton": 20.82,
+      "dia_num": 41
+    },
+    {
+      "fecha": "2026-03-14",
+      "turno": "Matutino",
+      "toneladas": 1725.8,
+      "eficiencia": 61.69,
+      "tiempo_operativo_h": 7.4,
+      "consumo_kwh_ton": 24.27,
+      "dia_num": 42
+    },
+    {
+      "fecha": "2026-03-14",
+      "turno": "Vespertino",
+      "toneladas": 1631.1,
+      "eficiencia": 59.1,
+      "tiempo_operativo_h": 7.15,
+      "consumo_kwh_ton": 27.65,
+      "dia_num": 42
+    },
+    {
+      "fecha": "2026-03-14",
+      "turno": "Nocturno",
+      "toneladas": 1629.4,
+      "eficiencia": 58.37,
+      "tiempo_operativo_h": 7.52,
+      "consumo_kwh_ton": 25.83,
+      "dia_num": 42
+    },
+    {
+      "fecha": "2026-03-15",
+      "turno": "Matutino",
+      "toneladas": 1825.0,
+      "eficiencia": 65.94,
+      "tiempo_operativo_h": 7.45,
+      "consumo_kwh_ton": 22.96,
+      "dia_num": 43
+    },
+    {
+      "fecha": "2026-03-15",
+      "turno": "Vespertino",
+      "toneladas": 1672.5,
+      "eficiencia": 61.8,
+      "tiempo_operativo_h": 7.59,
+      "consumo_kwh_ton": 25.08,
+      "dia_num": 43
+    },
+    {
+      "fecha": "2026-03-15",
+      "turno": "Nocturno",
+      "toneladas": 1610.8,
+      "eficiencia": 54.04,
+      "tiempo_operativo_h": 7.14,
+      "consumo_kwh_ton": 28.09,
+      "dia_num": 43
+    },
+    {
+      "fecha": "2026-03-16",
+      "turno": "Matutino",
+      "toneladas": 2269.7,
+      "eficiencia": 81.27,
+      "tiempo_operativo_h": 7.31,
+      "consumo_kwh_ton": 18.72,
+      "dia_num": 44
+    },
+    {
+      "fecha": "2026-03-16",
+      "turno": "Vespertino",
+      "toneladas": 2126.9,
+      "eficiencia": 81.03,
+      "tiempo_operativo_h": 7.43,
+      "consumo_kwh_ton": 20.34,
+      "dia_num": 44
+    },
+    {
+      "fecha": "2026-03-16",
+      "turno": "Nocturno",
+      "toneladas": 2077.5,
+      "eficiencia": 79.72,
+      "tiempo_operativo_h": 7.87,
+      "consumo_kwh_ton": 20.35,
+      "dia_num": 44
+    },
+    {
+      "fecha": "2026-03-17",
+      "turno": "Matutino",
+      "toneladas": 909.4,
+      "eficiencia": 34.8,
+      "tiempo_operativo_h": 3.17,
+      "consumo_kwh_ton": 45.44,
+      "dia_num": 45
+    },
+    {
+      "fecha": "2026-03-17",
+      "turno": "Vespertino",
+      "toneladas": 879.9,
+      "eficiencia": 33.52,
+      "tiempo_operativo_h": 2.89,
+      "consumo_kwh_ton": 45.43,
+      "dia_num": 45
+    },
+    {
+      "fecha": "2026-03-17",
+      "turno": "Nocturno",
+      "toneladas": 845.8,
+      "eficiencia": 28.84,
+      "tiempo_operativo_h": 2.86,
+      "consumo_kwh_ton": 46.76,
+      "dia_num": 45
+    },
+    {
+      "fecha": "2026-03-18",
+      "turno": "Matutino",
+      "toneladas": 2431.2,
+      "eficiencia": 80.89,
+      "tiempo_operativo_h": 7.5,
+      "consumo_kwh_ton": 19.5,
+      "dia_num": 46
+    },
+    {
+      "fecha": "2026-03-18",
+      "turno": "Vespertino",
+      "toneladas": 2220.4,
+      "eficiencia": 76.62,
+      "tiempo_operativo_h": 7.1,
+      "consumo_kwh_ton": 21.53,
+      "dia_num": 46
+    },
+    {
+      "fecha": "2026-03-18",
+      "turno": "Nocturno",
+      "toneladas": 2216.7,
+      "eficiencia": 72.23,
+      "tiempo_operativo_h": 7.69,
+      "consumo_kwh_ton": 22.34,
+      "dia_num": 46
+    },
+    {
+      "fecha": "2026-03-19",
+      "turno": "Matutino",
+      "toneladas": 2389.1,
+      "eficiencia": 83.95,
+      "tiempo_operativo_h": 7.37,
+      "consumo_kwh_ton": 19.54,
+      "dia_num": 47
+    },
+    {
+      "fecha": "2026-03-19",
+      "turno": "Vespertino",
+      "toneladas": 2449.6,
+      "eficiencia": 76.5,
+      "tiempo_operativo_h": 7.74,
+      "consumo_kwh_ton": 21.46,
+      "dia_num": 47
+    },
+    {
+      "fecha": "2026-03-19",
+      "turno": "Nocturno",
+      "toneladas": 1965.5,
+      "eficiencia": 77.33,
+      "tiempo_operativo_h": 7.59,
+      "consumo_kwh_ton": 21.03,
+      "dia_num": 47
+    },
+    {
+      "fecha": "2026-03-20",
+      "turno": "Matutino",
+      "toneladas": 2513.4,
+      "eficiencia": 81.45,
+      "tiempo_operativo_h": 7.2,
+      "consumo_kwh_ton": 18.66,
+      "dia_num": 48
+    },
+    {
+      "fecha": "2026-03-20",
+      "turno": "Vespertino",
+      "toneladas": 2340.3,
+      "eficiencia": 81.01,
+      "tiempo_operativo_h": 7.38,
+      "consumo_kwh_ton": 20.14,
+      "dia_num": 48
+    },
+    {
+      "fecha": "2026-03-20",
+      "turno": "Nocturno",
+      "toneladas": 2219.0,
+      "eficiencia": 74.16,
+      "tiempo_operativo_h": 7.4,
+      "consumo_kwh_ton": 21.12,
+      "dia_num": 48
+    },
+    {
+      "fecha": "2026-03-21",
+      "turno": "Matutino",
+      "toneladas": 1871.3,
+      "eficiencia": 63.77,
+      "tiempo_operativo_h": 7.26,
+      "consumo_kwh_ton": 25.64,
+      "dia_num": 49
+    },
+    {
+      "fecha": "2026-03-21",
+      "turno": "Vespertino",
+      "toneladas": 1721.9,
+      "eficiencia": 64.01,
+      "tiempo_operativo_h": 7.64,
+      "consumo_kwh_ton": 23.63,
+      "dia_num": 49
+    },
+    {
+      "fecha": "2026-03-21",
+      "turno": "Nocturno",
+      "toneladas": 1616.4,
+      "eficiencia": 54.8,
+      "tiempo_operativo_h": 7.17,
+      "consumo_kwh_ton": 29.54,
+      "dia_num": 49
+    },
+    {
+      "fecha": "2026-03-22",
+      "turno": "Matutino",
+      "toneladas": 1809.6,
+      "eficiencia": 67.27,
+      "tiempo_operativo_h": 7.8,
+      "consumo_kwh_ton": 22.56,
+      "dia_num": 50
+    },
+    {
+      "fecha": "2026-03-22",
+      "turno": "Vespertino",
+      "toneladas": 1641.2,
+      "eficiencia": 62.63,
+      "tiempo_operativo_h": 7.07,
+      "consumo_kwh_ton": 25.28,
+      "dia_num": 50
+    },
+    {
+      "fecha": "2026-03-22",
+      "turno": "Nocturno",
+      "toneladas": 1679.5,
+      "eficiencia": 54.86,
+      "tiempo_operativo_h": 7.83,
+      "consumo_kwh_ton": 27.55,
+      "dia_num": 50
+    },
+    {
+      "fecha": "2026-03-23",
+      "turno": "Matutino",
+      "toneladas": 2257.0,
+      "eficiencia": 83.78,
+      "tiempo_operativo_h": 7.81,
+      "consumo_kwh_ton": 18.11,
+      "dia_num": 51
+    },
+    {
+      "fecha": "2026-03-23",
+      "turno": "Vespertino",
+      "toneladas": 2361.1,
+      "eficiencia": 83.24,
+      "tiempo_operativo_h": 7.66,
+      "consumo_kwh_ton": 19.26,
+      "dia_num": 51
+    },
+    {
+      "fecha": "2026-03-23",
+      "turno": "Nocturno",
+      "toneladas": 2028.1,
+      "eficiencia": 73.18,
+      "tiempo_operativo_h": 7.21,
+      "consumo_kwh_ton": 22.36,
+      "dia_num": 51
+    },
+    {
+      "fecha": "2026-03-24",
+      "turno": "Matutino",
+      "toneladas": 2361.9,
+      "eficiencia": 84.55,
+      "tiempo_operativo_h": 7.95,
+      "consumo_kwh_ton": 17.95,
+      "dia_num": 52
+    },
+    {
+      "fecha": "2026-03-24",
+      "turno": "Vespertino",
+      "toneladas": 2282.1,
+      "eficiencia": 82.01,
+      "tiempo_operativo_h": 7.06,
+      "consumo_kwh_ton": 19.89,
+      "dia_num": 52
+    },
+    {
+      "fecha": "2026-03-24",
+      "turno": "Nocturno",
+      "toneladas": 2134.0,
+      "eficiencia": 76.86,
+      "tiempo_operativo_h": 7.93,
+      "consumo_kwh_ton": 20.88,
+      "dia_num": 52
+    },
+    {
+      "fecha": "2026-03-25",
+      "turno": "Matutino",
+      "toneladas": 2429.3,
+      "eficiencia": 86.27,
+      "tiempo_operativo_h": 7.45,
+      "consumo_kwh_ton": 18.66,
+      "dia_num": 53
+    },
+    {
+      "fecha": "2026-03-25",
+      "turno": "Vespertino",
+      "toneladas": 2435.2,
+      "eficiencia": 80.19,
+      "tiempo_operativo_h": 7.15,
+      "consumo_kwh_ton": 20.56,
+      "dia_num": 53
+    },
+    {
+      "fecha": "2026-03-25",
+      "turno": "Nocturno",
+      "toneladas": 1985.2,
+      "eficiencia": 79.21,
+      "tiempo_operativo_h": 7.88,
+      "consumo_kwh_ton": 19.89,
+      "dia_num": 53
+    },
+    {
+      "fecha": "2026-03-26",
+      "turno": "Matutino",
+      "toneladas": 2361.2,
+      "eficiencia": 79.7,
+      "tiempo_operativo_h": 7.36,
+      "consumo_kwh_ton": 20.33,
+      "dia_num": 54
+    },
+    {
+      "fecha": "2026-03-26",
+      "turno": "Vespertino",
+      "toneladas": 1233.6,
+      "eficiencia": 44.65,
+      "tiempo_operativo_h": 4.36,
+      "consumo_kwh_ton": 34.68,
+      "dia_num": 54
+    },
+    {
+      "fecha": "2026-03-26",
+      "turno": "Nocturno",
+      "toneladas": 2192.3,
+      "eficiencia": 74.3,
+      "tiempo_operativo_h": 7.26,
+      "consumo_kwh_ton": 21.06,
+      "dia_num": 54
+    },
+    {
+      "fecha": "2026-03-27",
+      "turno": "Matutino",
+      "toneladas": 2275.7,
+      "eficiencia": 84.98,
+      "tiempo_operativo_h": 7.44,
+      "consumo_kwh_ton": 19.27,
+      "dia_num": 55
+    },
+    {
+      "fecha": "2026-03-27",
+      "turno": "Vespertino",
+      "toneladas": 2309.4,
+      "eficiencia": 82.25,
+      "tiempo_operativo_h": 7.05,
+      "consumo_kwh_ton": 19.43,
+      "dia_num": 55
+    },
+    {
+      "fecha": "2026-03-27",
+      "turno": "Nocturno",
+      "toneladas": 2267.8,
+      "eficiencia": 71.12,
+      "tiempo_operativo_h": 7.44,
+      "consumo_kwh_ton": 21.19,
+      "dia_num": 55
+    },
+    {
+      "fecha": "2026-03-28",
+      "turno": "Matutino",
+      "toneladas": 1800.6,
+      "eficiencia": 64.6,
+      "tiempo_operativo_h": 7.1,
+      "consumo_kwh_ton": 24.95,
+      "dia_num": 56
+    },
+    {
+      "fecha": "2026-03-28",
+      "turno": "Vespertino",
+      "toneladas": 1818.9,
+      "eficiencia": 58.06,
+      "tiempo_operativo_h": 7.22,
+      "consumo_kwh_ton": 25.83,
+      "dia_num": 56
+    },
+    {
+      "fecha": "2026-03-28",
+      "turno": "Nocturno",
+      "toneladas": 1600.4,
+      "eficiencia": 52.69,
+      "tiempo_operativo_h": 7.78,
+      "consumo_kwh_ton": 29.71,
+      "dia_num": 56
+    },
+    {
+      "fecha": "2026-03-29",
+      "turno": "Matutino",
+      "toneladas": 1782.9,
+      "eficiencia": 62.86,
+      "tiempo_operativo_h": 7.58,
+      "consumo_kwh_ton": 24.15,
+      "dia_num": 57
+    },
+    {
+      "fecha": "2026-03-29",
+      "turno": "Vespertino",
+      "toneladas": 1809.0,
+      "eficiencia": 64.35,
+      "tiempo_operativo_h": 7.4,
+      "consumo_kwh_ton": 23.88,
+      "dia_num": 57
+    },
+    {
+      "fecha": "2026-03-29",
+      "turno": "Nocturno",
+      "toneladas": 1560.9,
+      "eficiencia": 52.37,
+      "tiempo_operativo_h": 7.19,
+      "consumo_kwh_ton": 30.67,
+      "dia_num": 57
+    },
+    {
+      "fecha": "2026-03-30",
+      "turno": "Matutino",
+      "toneladas": 2218.4,
+      "eficiencia": 81.69,
+      "tiempo_operativo_h": 7.26,
+      "consumo_kwh_ton": 19.58,
+      "dia_num": 58
+    },
+    {
+      "fecha": "2026-03-30",
+      "turno": "Vespertino",
+      "toneladas": 1232.0,
+      "eficiencia": 39.76,
+      "tiempo_operativo_h": 3.95,
+      "consumo_kwh_ton": 38.51,
+      "dia_num": 58
+    },
+    {
+      "fecha": "2026-03-30",
+      "turno": "Nocturno",
+      "toneladas": 2025.2,
+      "eficiencia": 77.13,
+      "tiempo_operativo_h": 7.86,
+      "consumo_kwh_ton": 21.06,
+      "dia_num": 58
+    },
+    {
+      "fecha": "2026-03-31",
+      "turno": "Matutino",
+      "toneladas": 2464.5,
+      "eficiencia": 81.49,
+      "tiempo_operativo_h": 7.32,
+      "consumo_kwh_ton": 20.06,
+      "dia_num": 59
+    },
+    {
+      "fecha": "2026-03-31",
+      "turno": "Vespertino",
+      "toneladas": 1114.6,
+      "eficiencia": 38.67,
+      "tiempo_operativo_h": 3.7,
+      "consumo_kwh_ton": 41.01,
+      "dia_num": 59
+    },
+    {
+      "fecha": "2026-03-31",
+      "turno": "Nocturno",
+      "toneladas": 2244.7,
+      "eficiencia": 78.12,
+      "tiempo_operativo_h": 7.37,
+      "consumo_kwh_ton": 19.64,
+      "dia_num": 59
+    },
+    {
+      "fecha": "2026-04-01",
+      "turno": "Matutino",
+      "toneladas": 973.9,
+      "eficiencia": 32.9,
+      "tiempo_operativo_h": 3.06,
+      "consumo_kwh_ton": 45.83,
+      "dia_num": 60
+    },
+    {
+      "fecha": "2026-04-01",
+      "turno": "Vespertino",
+      "toneladas": 902.7,
+      "eficiencia": 31.37,
+      "tiempo_operativo_h": 3.18,
+      "consumo_kwh_ton": 47.47,
+      "dia_num": 60
+    },
+    {
+      "fecha": "2026-04-01",
+      "turno": "Nocturno",
+      "toneladas": 894.6,
+      "eficiencia": 29.87,
+      "tiempo_operativo_h": 3.16,
+      "consumo_kwh_ton": 47.64,
+      "dia_num": 60
+    },
+    {
+      "fecha": "2026-04-02",
+      "turno": "Matutino",
+      "toneladas": 2216.6,
+      "eficiencia": 82.25,
+      "tiempo_operativo_h": 7.56,
+      "consumo_kwh_ton": 19.37,
+      "dia_num": 61
+    },
+    {
+      "fecha": "2026-04-02",
+      "turno": "Vespertino",
+      "toneladas": 2148.4,
+      "eficiencia": 84.54,
+      "tiempo_operativo_h": 7.99,
+      "consumo_kwh_ton": 18.65,
+      "dia_num": 61
+    },
+    {
+      "fecha": "2026-04-02",
+      "turno": "Nocturno",
+      "toneladas": 2035.1,
+      "eficiencia": 69.76,
+      "tiempo_operativo_h": 7.92,
+      "consumo_kwh_ton": 21.68,
+      "dia_num": 61
+    },
+    {
+      "fecha": "2026-04-03",
+      "turno": "Matutino",
+      "toneladas": 2313.2,
+      "eficiencia": 85.64,
+      "tiempo_operativo_h": 7.67,
+      "consumo_kwh_ton": 18.97,
+      "dia_num": 62
+    },
+    {
+      "fecha": "2026-04-03",
+      "turno": "Vespertino",
+      "toneladas": 2101.6,
+      "eficiencia": 76.64,
+      "tiempo_operativo_h": 7.9,
+      "consumo_kwh_ton": 21.28,
+      "dia_num": 62
+    },
+    {
+      "fecha": "2026-04-03",
+      "turno": "Nocturno",
+      "toneladas": 2146.0,
+      "eficiencia": 76.53,
+      "tiempo_operativo_h": 7.21,
+      "consumo_kwh_ton": 21.4,
+      "dia_num": 62
+    },
+    {
+      "fecha": "2026-04-04",
+      "turno": "Matutino",
+      "toneladas": 1766.3,
+      "eficiencia": 63.92,
+      "tiempo_operativo_h": 7.09,
+      "consumo_kwh_ton": 23.78,
+      "dia_num": 63
+    },
+    {
+      "fecha": "2026-04-04",
+      "turno": "Vespertino",
+      "toneladas": 1595.9,
+      "eficiencia": 61.44,
+      "tiempo_operativo_h": 7.28,
+      "consumo_kwh_ton": 25.31,
+      "dia_num": 63
+    },
+    {
+      "fecha": "2026-04-04",
+      "turno": "Nocturno",
+      "toneladas": 1547.4,
+      "eficiencia": 57.82,
+      "tiempo_operativo_h": 7.33,
+      "consumo_kwh_ton": 27.38,
+      "dia_num": 63
+    },
+    {
+      "fecha": "2026-04-05",
+      "turno": "Matutino",
+      "toneladas": 1847.1,
+      "eficiencia": 67.65,
+      "tiempo_operativo_h": 7.74,
+      "consumo_kwh_ton": 22.58,
+      "dia_num": 64
+    },
+    {
+      "fecha": "2026-04-05",
+      "turno": "Vespertino",
+      "toneladas": 936.3,
+      "eficiencia": 30.61,
+      "tiempo_operativo_h": 4.05,
+      "consumo_kwh_ton": 46.7,
+      "dia_num": 64
+    },
+    {
+      "fecha": "2026-04-05",
+      "turno": "Nocturno",
+      "toneladas": 1652.7,
+      "eficiencia": 53.01,
+      "tiempo_operativo_h": 7.11,
+      "consumo_kwh_ton": 30.34,
+      "dia_num": 64
+    },
+    {
+      "fecha": "2026-04-06",
+      "turno": "Matutino",
+      "toneladas": 2472.3,
+      "eficiencia": 84.22,
+      "tiempo_operativo_h": 7.28,
+      "consumo_kwh_ton": 19.27,
+      "dia_num": 65
+    },
+    {
+      "fecha": "2026-04-06",
+      "turno": "Vespertino",
+      "toneladas": 2351.0,
+      "eficiencia": 78.17,
+      "tiempo_operativo_h": 7.61,
+      "consumo_kwh_ton": 19.84,
+      "dia_num": 65
+    },
+    {
+      "fecha": "2026-04-06",
+      "turno": "Nocturno",
+      "toneladas": 2253.0,
+      "eficiencia": 71.0,
+      "tiempo_operativo_h": 7.95,
+      "consumo_kwh_ton": 22.03,
+      "dia_num": 65
+    },
+    {
+      "fecha": "2026-04-07",
+      "turno": "Matutino",
+      "toneladas": 2416.1,
+      "eficiencia": 89.44,
+      "tiempo_operativo_h": 7.74,
+      "consumo_kwh_ton": 18.12,
+      "dia_num": 66
+    },
+    {
+      "fecha": "2026-04-07",
+      "turno": "Vespertino",
+      "toneladas": 2350.1,
+      "eficiencia": 84.7,
+      "tiempo_operativo_h": 7.28,
+      "consumo_kwh_ton": 18.55,
+      "dia_num": 66
+    },
+    {
+      "fecha": "2026-04-07",
+      "turno": "Nocturno",
+      "toneladas": 2276.8,
+      "eficiencia": 79.45,
+      "tiempo_operativo_h": 7.08,
+      "consumo_kwh_ton": 20.2,
+      "dia_num": 66
+    },
+    {
+      "fecha": "2026-04-08",
+      "turno": "Matutino",
+      "toneladas": 2277.3,
+      "eficiencia": 85.81,
+      "tiempo_operativo_h": 7.92,
+      "consumo_kwh_ton": 17.47,
+      "dia_num": 67
+    },
+    {
+      "fecha": "2026-04-08",
+      "turno": "Vespertino",
+      "toneladas": 2206.1,
+      "eficiencia": 85.55,
+      "tiempo_operativo_h": 7.97,
+      "consumo_kwh_ton": 19.2,
+      "dia_num": 67
+    },
+    {
+      "fecha": "2026-04-08",
+      "turno": "Nocturno",
+      "toneladas": 2234.3,
+      "eficiencia": 78.41,
+      "tiempo_operativo_h": 7.35,
+      "consumo_kwh_ton": 20.71,
+      "dia_num": 67
+    },
+    {
+      "fecha": "2026-04-09",
+      "turno": "Matutino",
+      "toneladas": 1353.5,
+      "eficiencia": 47.44,
+      "tiempo_operativo_h": 4.19,
+      "consumo_kwh_ton": 33.8,
+      "dia_num": 68
+    },
+    {
+      "fecha": "2026-04-09",
+      "turno": "Vespertino",
+      "toneladas": 2362.0,
+      "eficiencia": 75.84,
+      "tiempo_operativo_h": 7.34,
+      "consumo_kwh_ton": 20.82,
+      "dia_num": 68
+    },
+    {
+      "fecha": "2026-04-09",
+      "turno": "Nocturno",
+      "toneladas": 2050.8,
+      "eficiencia": 76.12,
+      "tiempo_operativo_h": 7.89,
+      "consumo_kwh_ton": 20.9,
+      "dia_num": 68
+    },
+    {
+      "fecha": "2026-04-10",
+      "turno": "Matutino",
+      "toneladas": 2217.4,
+      "eficiencia": 89.4,
+      "tiempo_operativo_h": 7.06,
+      "consumo_kwh_ton": 18.25,
+      "dia_num": 69
+    },
+    {
+      "fecha": "2026-04-10",
+      "turno": "Vespertino",
+      "toneladas": 2440.2,
+      "eficiencia": 84.13,
+      "tiempo_operativo_h": 8.0,
+      "consumo_kwh_ton": 18.41,
+      "dia_num": 69
+    },
+    {
+      "fecha": "2026-04-10",
+      "turno": "Nocturno",
+      "toneladas": 2078.9,
+      "eficiencia": 74.59,
+      "tiempo_operativo_h": 7.64,
+      "consumo_kwh_ton": 21.87,
+      "dia_num": 69
+    },
+    {
+      "fecha": "2026-04-11",
+      "turno": "Matutino",
+      "toneladas": 1877.3,
+      "eficiencia": 63.02,
+      "tiempo_operativo_h": 7.44,
+      "consumo_kwh_ton": 25.55,
+      "dia_num": 70
+    },
+    {
+      "fecha": "2026-04-11",
+      "turno": "Vespertino",
+      "toneladas": 1603.4,
+      "eficiencia": 59.33,
+      "tiempo_operativo_h": 7.32,
+      "consumo_kwh_ton": 25.96,
+      "dia_num": 70
+    },
+    {
+      "fecha": "2026-04-11",
+      "turno": "Nocturno",
+      "toneladas": 1467.9,
+      "eficiencia": 52.31,
+      "tiempo_operativo_h": 7.99,
+      "consumo_kwh_ton": 29.84,
+      "dia_num": 70
+    },
+    {
+      "fecha": "2026-04-12",
+      "turno": "Matutino",
+      "toneladas": 1851.7,
+      "eficiencia": 61.24,
+      "tiempo_operativo_h": 7.95,
+      "consumo_kwh_ton": 26.41,
+      "dia_num": 71
+    },
+    {
+      "fecha": "2026-04-12",
+      "turno": "Vespertino",
+      "toneladas": 1687.5,
+      "eficiencia": 63.78,
+      "tiempo_operativo_h": 7.95,
+      "consumo_kwh_ton": 24.58,
+      "dia_num": 71
+    },
+    {
+      "fecha": "2026-04-12",
+      "turno": "Nocturno",
+      "toneladas": 1499.6,
+      "eficiencia": 59.96,
+      "tiempo_operativo_h": 7.26,
+      "consumo_kwh_ton": 27.39,
+      "dia_num": 71
+    },
+    {
+      "fecha": "2026-04-13",
+      "turno": "Matutino",
+      "toneladas": 2441.4,
+      "eficiencia": 85.15,
+      "tiempo_operativo_h": 7.26,
+      "consumo_kwh_ton": 17.87,
+      "dia_num": 72
+    },
+    {
+      "fecha": "2026-04-13",
+      "turno": "Vespertino",
+      "toneladas": 2165.6,
+      "eficiencia": 83.91,
+      "tiempo_operativo_h": 7.38,
+      "consumo_kwh_ton": 17.91,
+      "dia_num": 72
+    },
+    {
+      "fecha": "2026-04-13",
+      "turno": "Nocturno",
+      "toneladas": 2241.7,
+      "eficiencia": 79.28,
+      "tiempo_operativo_h": 8.0,
+      "consumo_kwh_ton": 19.19,
+      "dia_num": 72
+    },
+    {
+      "fecha": "2026-04-14",
+      "turno": "Matutino",
+      "toneladas": 2499.2,
+      "eficiencia": 87.33,
+      "tiempo_operativo_h": 7.19,
+      "consumo_kwh_ton": 18.57,
+      "dia_num": 73
+    },
+    {
+      "fecha": "2026-04-14",
+      "turno": "Vespertino",
+      "toneladas": 2179.2,
+      "eficiencia": 81.17,
+      "tiempo_operativo_h": 7.61,
+      "consumo_kwh_ton": 19.53,
+      "dia_num": 73
+    },
+    {
+      "fecha": "2026-04-14",
+      "turno": "Nocturno",
+      "toneladas": 2239.6,
+      "eficiencia": 72.35,
+      "tiempo_operativo_h": 7.16,
+      "consumo_kwh_ton": 22.58,
+      "dia_num": 73
+    },
+    {
+      "fecha": "2026-04-15",
+      "turno": "Matutino",
+      "toneladas": 2539.1,
+      "eficiencia": 88.68,
+      "tiempo_operativo_h": 7.67,
+      "consumo_kwh_ton": 17.82,
+      "dia_num": 74
+    },
+    {
+      "fecha": "2026-04-15",
+      "turno": "Vespertino",
+      "toneladas": 2246.6,
+      "eficiencia": 79.31,
+      "tiempo_operativo_h": 7.29,
+      "consumo_kwh_ton": 20.27,
+      "dia_num": 74
+    },
+    {
+      "fecha": "2026-04-15",
+      "turno": "Nocturno",
+      "toneladas": 1970.4,
+      "eficiencia": 71.87,
+      "tiempo_operativo_h": 7.7,
+      "consumo_kwh_ton": 20.95,
+      "dia_num": 74
+    },
+    {
+      "fecha": "2026-04-16",
+      "turno": "Matutino",
+      "toneladas": 959.3,
+      "eficiencia": 33.91,
+      "tiempo_operativo_h": 3.04,
+      "consumo_kwh_ton": 47.75,
+      "dia_num": 75
+    },
+    {
+      "fecha": "2026-04-16",
+      "turno": "Vespertino",
+      "toneladas": 938.0,
+      "eficiencia": 32.6,
+      "tiempo_operativo_h": 2.92,
+      "consumo_kwh_ton": 48.0,
+      "dia_num": 75
+    },
+    {
+      "fecha": "2026-04-16",
+      "turno": "Nocturno",
+      "toneladas": 866.2,
+      "eficiencia": 31.39,
+      "tiempo_operativo_h": 3.15,
+      "consumo_kwh_ton": 47.21,
+      "dia_num": 75
+    },
+    {
+      "fecha": "2026-04-17",
+      "turno": "Matutino",
+      "toneladas": 2475.8,
+      "eficiencia": 87.14,
+      "tiempo_operativo_h": 7.63,
+      "consumo_kwh_ton": 18.5,
+      "dia_num": 76
+    },
+    {
+      "fecha": "2026-04-17",
+      "turno": "Vespertino",
+      "toneladas": 2418.9,
+      "eficiencia": 84.95,
+      "tiempo_operativo_h": 7.07,
+      "consumo_kwh_ton": 19.11,
+      "dia_num": 76
+    },
+    {
+      "fecha": "2026-04-17",
+      "turno": "Nocturno",
+      "toneladas": 2056.3,
+      "eficiencia": 77.35,
+      "tiempo_operativo_h": 7.19,
+      "consumo_kwh_ton": 20.98,
+      "dia_num": 76
+    },
+    {
+      "fecha": "2026-04-18",
+      "turno": "Matutino",
+      "toneladas": 1802.2,
+      "eficiencia": 59.34,
+      "tiempo_operativo_h": 7.32,
+      "consumo_kwh_ton": 26.81,
+      "dia_num": 77
+    },
+    {
+      "fecha": "2026-04-18",
+      "turno": "Vespertino",
+      "toneladas": 1746.1,
+      "eficiencia": 58.53,
+      "tiempo_operativo_h": 7.65,
+      "consumo_kwh_ton": 26.98,
+      "dia_num": 77
+    },
+    {
+      "fecha": "2026-04-18",
+      "turno": "Nocturno",
+      "toneladas": 1484.4,
+      "eficiencia": 58.15,
+      "tiempo_operativo_h": 7.56,
+      "consumo_kwh_ton": 28.29,
+      "dia_num": 77
+    },
+    {
+      "fecha": "2026-04-19",
+      "turno": "Matutino",
+      "toneladas": 1838.2,
+      "eficiencia": 67.61,
+      "tiempo_operativo_h": 7.14,
+      "consumo_kwh_ton": 24.28,
+      "dia_num": 78
+    },
+    {
+      "fecha": "2026-04-19",
+      "turno": "Vespertino",
+      "toneladas": 1591.8,
+      "eficiencia": 58.87,
+      "tiempo_operativo_h": 7.72,
+      "consumo_kwh_ton": 25.55,
+      "dia_num": 78
+    },
+    {
+      "fecha": "2026-04-19",
+      "turno": "Nocturno",
+      "toneladas": 1544.9,
+      "eficiencia": 57.05,
+      "tiempo_operativo_h": 7.08,
+      "consumo_kwh_ton": 28.59,
+      "dia_num": 78
+    },
+    {
+      "fecha": "2026-04-20",
+      "turno": "Matutino",
+      "toneladas": 2580.0,
+      "eficiencia": 87.97,
+      "tiempo_operativo_h": 7.16,
+      "consumo_kwh_ton": 18.34,
+      "dia_num": 79
+    },
+    {
+      "fecha": "2026-04-20",
+      "turno": "Vespertino",
+      "toneladas": 1115.2,
+      "eficiencia": 40.58,
+      "tiempo_operativo_h": 3.92,
+      "consumo_kwh_ton": 39.46,
+      "dia_num": 79
+    },
+    {
+      "fecha": "2026-04-20",
+      "turno": "Nocturno",
+      "toneladas": 2035.5,
+      "eficiencia": 80.01,
+      "tiempo_operativo_h": 7.45,
+      "consumo_kwh_ton": 19.56,
+      "dia_num": 79
+    },
+    {
+      "fecha": "2026-04-21",
+      "turno": "Matutino",
+      "toneladas": 2513.2,
+      "eficiencia": 87.3,
+      "tiempo_operativo_h": 7.25,
+      "consumo_kwh_ton": 17.26,
+      "dia_num": 80
+    },
+    {
+      "fecha": "2026-04-21",
+      "turno": "Vespertino",
+      "toneladas": 2336.4,
+      "eficiencia": 78.19,
+      "tiempo_operativo_h": 7.95,
+      "consumo_kwh_ton": 19.41,
+      "dia_num": 80
+    },
+    {
+      "fecha": "2026-04-21",
+      "turno": "Nocturno",
+      "toneladas": 2261.9,
+      "eficiencia": 73.96,
+      "tiempo_operativo_h": 7.65,
+      "consumo_kwh_ton": 21.04,
+      "dia_num": 80
+    },
+    {
+      "fecha": "2026-04-22",
+      "turno": "Matutino",
+      "toneladas": 2585.8,
+      "eficiencia": 83.92,
+      "tiempo_operativo_h": 7.9,
+      "consumo_kwh_ton": 18.23,
+      "dia_num": 81
+    },
+    {
+      "fecha": "2026-04-22",
+      "turno": "Vespertino",
+      "toneladas": 2109.0,
+      "eficiencia": 82.46,
+      "tiempo_operativo_h": 7.39,
+      "consumo_kwh_ton": 19.76,
+      "dia_num": 81
+    },
+    {
+      "fecha": "2026-04-22",
+      "turno": "Nocturno",
+      "toneladas": 2270.2,
+      "eficiencia": 71.51,
+      "tiempo_operativo_h": 7.87,
+      "consumo_kwh_ton": 22.6,
+      "dia_num": 81
+    },
+    {
+      "fecha": "2026-04-23",
+      "turno": "Matutino",
+      "toneladas": 2532.4,
+      "eficiencia": 88.11,
+      "tiempo_operativo_h": 7.64,
+      "consumo_kwh_ton": 17.19,
+      "dia_num": 82
+    },
+    {
+      "fecha": "2026-04-23",
+      "turno": "Vespertino",
+      "toneladas": 1482.1,
+      "eficiencia": 53.67,
+      "tiempo_operativo_h": 4.79,
+      "consumo_kwh_ton": 28.18,
+      "dia_num": 82
+    },
+    {
+      "fecha": "2026-04-23",
+      "turno": "Nocturno",
+      "toneladas": 2174.7,
+      "eficiencia": 74.07,
+      "tiempo_operativo_h": 7.23,
+      "consumo_kwh_ton": 21.21,
+      "dia_num": 82
+    },
+    {
+      "fecha": "2026-04-24",
+      "turno": "Matutino",
+      "toneladas": 2431.5,
+      "eficiencia": 82.25,
+      "tiempo_operativo_h": 7.81,
+      "consumo_kwh_ton": 18.76,
+      "dia_num": 83
+    },
+    {
+      "fecha": "2026-04-24",
+      "turno": "Vespertino",
+      "toneladas": 2101.8,
+      "eficiencia": 75.92,
+      "tiempo_operativo_h": 7.42,
+      "consumo_kwh_ton": 20.67,
+      "dia_num": 83
+    },
+    {
+      "fecha": "2026-04-24",
+      "turno": "Nocturno",
+      "toneladas": 2041.6,
+      "eficiencia": 76.84,
+      "tiempo_operativo_h": 7.87,
+      "consumo_kwh_ton": 21.04,
+      "dia_num": 83
+    },
+    {
+      "fecha": "2026-04-25",
+      "turno": "Matutino",
+      "toneladas": 964.6,
+      "eficiencia": 35.15,
+      "tiempo_operativo_h": 4.57,
+      "consumo_kwh_ton": 43.13,
+      "dia_num": 84
+    },
+    {
+      "fecha": "2026-04-25",
+      "turno": "Vespertino",
+      "toneladas": 1742.3,
+      "eficiencia": 62.28,
+      "tiempo_operativo_h": 7.58,
+      "consumo_kwh_ton": 24.01,
+      "dia_num": 84
+    },
+    {
+      "fecha": "2026-04-25",
+      "turno": "Nocturno",
+      "toneladas": 1588.5,
+      "eficiencia": 52.86,
+      "tiempo_operativo_h": 7.38,
+      "consumo_kwh_ton": 28.36,
+      "dia_num": 84
+    },
+    {
+      "fecha": "2026-04-26",
+      "turno": "Matutino",
+      "toneladas": 1770.3,
+      "eficiencia": 60.47,
+      "tiempo_operativo_h": 7.58,
+      "consumo_kwh_ton": 26.5,
+      "dia_num": 85
+    },
+    {
+      "fecha": "2026-04-26",
+      "turno": "Vespertino",
+      "toneladas": 1628.0,
+      "eficiencia": 57.74,
+      "tiempo_operativo_h": 7.14,
+      "consumo_kwh_ton": 27.6,
+      "dia_num": 85
+    },
+    {
+      "fecha": "2026-04-26",
+      "turno": "Nocturno",
+      "toneladas": 1465.3,
+      "eficiencia": 59.53,
+      "tiempo_operativo_h": 7.09,
+      "consumo_kwh_ton": 26.53,
+      "dia_num": 85
+    },
+    {
+      "fecha": "2026-04-27",
+      "turno": "Matutino",
+      "toneladas": 2542.5,
+      "eficiencia": 87.55,
+      "tiempo_operativo_h": 7.81,
+      "consumo_kwh_ton": 17.67,
+      "dia_num": 86
+    },
+    {
+      "fecha": "2026-04-27",
+      "turno": "Vespertino",
+      "toneladas": 2126.8,
+      "eficiencia": 85.21,
+      "tiempo_operativo_h": 7.57,
+      "consumo_kwh_ton": 19.04,
+      "dia_num": 86
+    },
+    {
+      "fecha": "2026-04-27",
+      "turno": "Nocturno",
+      "toneladas": 2160.5,
+      "eficiencia": 75.08,
+      "tiempo_operativo_h": 7.74,
+      "consumo_kwh_ton": 20.07,
+      "dia_num": 86
+    },
+    {
+      "fecha": "2026-04-28",
+      "turno": "Matutino",
+      "toneladas": 2302.9,
+      "eficiencia": 80.95,
+      "tiempo_operativo_h": 7.88,
+      "consumo_kwh_ton": 18.88,
+      "dia_num": 87
+    },
+    {
+      "fecha": "2026-04-28",
+      "turno": "Vespertino",
+      "toneladas": 2220.5,
+      "eficiencia": 77.16,
+      "tiempo_operativo_h": 7.8,
+      "consumo_kwh_ton": 20.7,
+      "dia_num": 87
+    },
+    {
+      "fecha": "2026-04-28",
+      "turno": "Nocturno",
+      "toneladas": 2130.7,
+      "eficiencia": 77.1,
+      "tiempo_operativo_h": 7.26,
+      "consumo_kwh_ton": 21.41,
+      "dia_num": 87
+    },
+    {
+      "fecha": "2026-04-29",
+      "turno": "Matutino",
+      "toneladas": 2457.7,
+      "eficiencia": 81.42,
+      "tiempo_operativo_h": 7.69,
+      "consumo_kwh_ton": 18.49,
+      "dia_num": 88
+    },
+    {
+      "fecha": "2026-04-29",
+      "turno": "Vespertino",
+      "toneladas": 1220.8,
+      "eficiencia": 45.74,
+      "tiempo_operativo_h": 4.17,
+      "consumo_kwh_ton": 35.21,
+      "dia_num": 88
+    },
+    {
+      "fecha": "2026-04-29",
+      "turno": "Nocturno",
+      "toneladas": 2059.9,
+      "eficiencia": 73.45,
+      "tiempo_operativo_h": 7.99,
+      "consumo_kwh_ton": 20.42,
+      "dia_num": 88
+    },
+    {
+      "fecha": "2026-04-30",
+      "turno": "Matutino",
+      "toneladas": 2430.2,
+      "eficiencia": 84.27,
+      "tiempo_operativo_h": 7.74,
+      "consumo_kwh_ton": 18.64,
+      "dia_num": 89
+    },
+    {
+      "fecha": "2026-04-30",
+      "turno": "Vespertino",
+      "toneladas": 2426.2,
+      "eficiencia": 79.87,
+      "tiempo_operativo_h": 7.31,
+      "consumo_kwh_ton": 19.87,
+      "dia_num": 89
+    },
+    {
+      "fecha": "2026-04-30",
+      "turno": "Nocturno",
+      "toneladas": 2014.2,
+      "eficiencia": 76.09,
+      "tiempo_operativo_h": 7.65,
+      "consumo_kwh_ton": 21.15,
+      "dia_num": 89
+    }
+  ],
+  "kpis_hoy": {
+    "toneladas_total": 6870.6,
+    "eficiencia_promedio": 80.08,
+    "tiempo_operativo_promedio": 7.57,
+    "consumo_promedio": 19.89,
+    "toneladas_total_var": 19.7,
+    "eficiencia_promedio_var": 19.8,
+    "tiempo_operativo_promedio_var": 14.4,
+    "consumo_promedio_var": -19.5
+  },
+  "alertas": [
+    {
+      "nivel": "advertencia",
+      "mensaje": "Eficiencia baja (77.16%) — Turno Vespertino del 2026-04-28",
+      "turno": "Vespertino",
+      "fecha": "2026-04-28"
+    },
+    {
+      "nivel": "advertencia",
+      "mensaje": "Eficiencia baja (77.1%) — Turno Nocturno del 2026-04-28",
+      "turno": "Nocturno",
+      "fecha": "2026-04-28"
+    },
+    {
+      "nivel": "critico",
+      "mensaje": "Eficiencia crítica (45.74%) — Turno Vespertino del 2026-04-29",
+      "turno": "Vespertino",
+      "fecha": "2026-04-29"
+    },
+    {
+      "nivel": "advertencia",
+      "mensaje": "Eficiencia baja (73.45%) — Turno Nocturno del 2026-04-29",
+      "turno": "Nocturno",
+      "fecha": "2026-04-29"
+    },
+    {
+      "nivel": "advertencia",
+      "mensaje": "Eficiencia baja (79.87%) — Turno Vespertino del 2026-04-30",
+      "turno": "Vespertino",
+      "fecha": "2026-04-30"
+    },
+    {
+      "nivel": "advertencia",
+      "mensaje": "Eficiencia baja (76.09%) — Turno Nocturno del 2026-04-30",
+      "turno": "Nocturno",
+      "fecha": "2026-04-30"
+    }
+  ],
+  "predicciones": [
+    {
+      "fecha": "2026-05-01",
+      "prediccion": 3120.0,
+      "limite_inferior": 2463.3,
+      "limite_superior": 3776.8,
+      "es_fin_semana": false,
+      "es_mantenimiento": true
+    },
+    {
+      "fecha": "2026-05-02",
+      "prediccion": 3401.6,
+      "limite_inferior": 2744.9,
+      "limite_superior": 4058.4,
+      "es_fin_semana": true,
+      "es_mantenimiento": false
+    },
+    {
+      "fecha": "2026-05-03",
+      "prediccion": 4041.2,
+      "limite_inferior": 3384.5,
+      "limite_superior": 4698.0,
+      "es_fin_semana": true,
+      "es_mantenimiento": false
+    },
+    {
+      "fecha": "2026-05-04",
+      "prediccion": 6038.4,
+      "limite_inferior": 5381.7,
+      "limite_superior": 6695.2,
+      "es_fin_semana": false,
+      "es_mantenimiento": false
+    },
+    {
+      "fecha": "2026-05-05",
+      "prediccion": 7069.7,
+      "limite_inferior": 6412.9,
+      "limite_superior": 7726.5,
+      "es_fin_semana": false,
+      "es_mantenimiento": false
+    },
+    {
+      "fecha": "2026-05-06",
+      "prediccion": 7461.1,
+      "limite_inferior": 6804.3,
+      "limite_superior": 8117.9,
+      "es_fin_semana": false,
+      "es_mantenimiento": false
+    },
+    {
+      "fecha": "2026-05-07",
+      "prediccion": 7500.5,
+      "limite_inferior": 6843.7,
+      "limite_superior": 8157.3,
+      "es_fin_semana": false,
+      "es_mantenimiento": false
+    }
+  ],
+  "tendencia_30d": [
+    {
+      "fecha": "2026-04-01",
+      "toneladas": 2771.2,
+      "eficiencia": 31.38,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-02",
+      "toneladas": 6400.1,
+      "eficiencia": 78.85,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-03",
+      "toneladas": 6560.8,
+      "eficiencia": 79.6,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-04",
+      "toneladas": 4909.6,
+      "eficiencia": 61.06,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-05",
+      "toneladas": 4436.1,
+      "eficiencia": 50.42,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-06",
+      "toneladas": 7076.3,
+      "eficiencia": 77.8,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-07",
+      "toneladas": 7043.0,
+      "eficiencia": 84.53,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-08",
+      "toneladas": 6717.7,
+      "eficiencia": 83.26,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-09",
+      "toneladas": 5766.3,
+      "eficiencia": 66.47,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-10",
+      "toneladas": 6736.5,
+      "eficiencia": 82.71,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-11",
+      "toneladas": 4948.6,
+      "eficiencia": 58.22,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-12",
+      "toneladas": 5038.8,
+      "eficiencia": 61.66,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-13",
+      "toneladas": 6848.7,
+      "eficiencia": 82.78,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-14",
+      "toneladas": 6918.0,
+      "eficiencia": 80.28,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-15",
+      "toneladas": 6756.1,
+      "eficiencia": 79.95,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-16",
+      "toneladas": 2763.5,
+      "eficiencia": 32.63,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-17",
+      "toneladas": 6951.0,
+      "eficiencia": 83.15,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-18",
+      "toneladas": 5032.7,
+      "eficiencia": 58.67,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-19",
+      "toneladas": 4974.9,
+      "eficiencia": 61.18,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-20",
+      "toneladas": 5730.7,
+      "eficiencia": 69.52,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-21",
+      "toneladas": 7111.5,
+      "eficiencia": 79.82,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-22",
+      "toneladas": 6965.0,
+      "eficiencia": 79.3,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-23",
+      "toneladas": 6189.2,
+      "eficiencia": 71.95,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-24",
+      "toneladas": 6574.9,
+      "eficiencia": 78.34,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-25",
+      "toneladas": 4295.4,
+      "eficiencia": 50.1,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-26",
+      "toneladas": 4863.6,
+      "eficiencia": 59.25,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-27",
+      "toneladas": 6829.8,
+      "eficiencia": 82.61,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-28",
+      "toneladas": 6654.1,
+      "eficiencia": 78.4,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-29",
+      "toneladas": 5738.4,
+      "eficiencia": 66.87,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    },
+    {
+      "fecha": "2026-04-30",
+      "toneladas": 6870.6,
+      "eficiencia": 80.08,
+      "meta_toneladas": 7200,
+      "meta_eficiencia": 85.0
+    }
+  ]
+}
